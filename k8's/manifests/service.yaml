@@ -12,3 +12,4 @@ spec:
   selector:
     app: go-web-app
   type: ClusterIP
+#nothing
