@@ -19,3 +19,4 @@ spec:
         image: 123610/go-web-app:v1
         ports:
         - containerPort: 8081
+        #no
